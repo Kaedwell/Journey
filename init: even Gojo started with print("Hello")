@@ -1,5 +1,3 @@
-# Journey
-
 # My Path into Software Engineering
 
 Welcome to my learning archive!  
@@ -17,12 +15,10 @@ And because I want to build solutions that matter – maybe one day at a big tec
 
 ## Project overview
 
-- `01_hello_python/` – basic print statements, variables, and just getting used to Python syntax
-- `02_calculator_cli/` – simple calculator using user input and functions – where things started clicking
-- `03_experiments/` – random stuff I tried while learning (loops, ifs, bugs, frustration, joy – all of it)
-- `04_gui_calculator/` – learning to build graphical interfaces using Tkinter
-- `05_voice_calc_test/` – early attempt at voice-controlled calculations (WIP)
-- `06_openai_chatbot/` – experimenting with OpenAI API and building a minimal chatbot (WIP)
+- `01_calculator_cli/` – my first Python script: a simple calculator
+- `02_gui_calculator/` – learning graphical interfaces (Tkinter)
+- `03_voice_calculator/` – early experiment with voice input
+- `04_openai_chatbot/` – first steps into AI and API integration (WIP)
 
 ## What's next
 
